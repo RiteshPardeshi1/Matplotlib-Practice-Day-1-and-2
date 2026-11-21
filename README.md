@@ -18,4 +18,4 @@ Python, Matplotlib, Jupyter Notebook
 
 ## Author
 
-Ritesh Pardeshi, Data Scientist
+Ritesh Pardeshi, Data Intelligence Specialist
